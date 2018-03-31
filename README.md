@@ -50,16 +50,16 @@ use it by vue-directive:
 ></div>
 ```
 
+
 ### Options
 | Name | Desc | Type | Accepted Values | Default |
 |- | :-: | :-: | :-:|  -: |
 |load-background | set cover background | String | css color | HSLA(169, 100%, 38%, .5)|
-|load-type | set loading animation | String | [animation list](#Kind-of-animation) | circle|
+|load-type | set loading animation | String | <a href="#list">animation list</a> | circle|
 
 
 
-
-# Kind of animation
+<h1 id="list">Kind of animation</h1>
 
 - rotating-plane
 - double-bounce
