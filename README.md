@@ -21,7 +21,7 @@
 - ✔️ Higher customization.
 - ✔️ Long time support.
 
-# install
+# Install
 
 ```javascript
 npm i -S vue-easy-loading
@@ -29,7 +29,7 @@ npm i -S vue-easy-loading
 
 
 
-# easy to use
+# Easy to use
 
 ### main.js
 
@@ -43,12 +43,23 @@ Vue.use(Loading);
 use it by vue-directive:
 
 ```javascript
-<div v-load="true"></div>
+<div 
+    v-load="true"
+    load-background="rgba(0, 0, 0, .7)"
+    load-type="rotating-plane"
+></div>
 ```
 
+### Options
+| Name | Desc | Type | Accepted Values | Default |
+|- | :-: | :-: | :-:|  -: |
+|load-background | set cover background | String | css color | HSLA(169, 100%, 38%, .5)|
+|load-type | set loading animation | String | [animation list](#Kind-of-animation) | circle|
 
 
-# kind of animation
+
+
+# Kind of animation
 
 - rotating-plane
 - double-bounce
