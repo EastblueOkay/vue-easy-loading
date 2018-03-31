@@ -18,7 +18,7 @@
 
 - ✔️ easy to use, Just two line of code.
 - ✔️ more beautiful, with help of [spinkit](https://github.com/tobiasahlin/SpinKit).
-- ✔️ Higher customization.
+- ✔️ Higher customization, use it on every HTML DOM.
 - ✔️ Long time support.
 
 # Install
