@@ -8,7 +8,7 @@
 
 # vue-easy-loading
 
-> vue-easy-loading makes the loading animation <code>easier</code> and more <code>beautiful</code>. You can preview it [here](https://eastblueokay.github.io/static/vue-easy-loading/index.html)
+> vue-easy-loading makes the loading animation <code>easier</code> and more <code>beautiful</code>. 
 
 ![preview](./static/preview.gif)
 
