@@ -44,7 +44,7 @@ Vue.use(Loading);
 
 use it by vue-directive:
 
-```javascript
+```html
 <div 
     v-load="true"
     load-background="rgba(0, 0, 0, .7)"
