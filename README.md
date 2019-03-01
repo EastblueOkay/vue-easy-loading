@@ -26,7 +26,7 @@
 ```javascript
 npm i -S vue-easy-loading
 or
-yarn add --save vue-easy-loading
+yarn add vue-easy-loading --save
 ```
 
 
