@@ -23,9 +23,9 @@
 
 # Install
 
-```javascript
+```shell
 npm i -S vue-easy-loading
-or
+# or
 yarn add vue-easy-loading
 ```
 
