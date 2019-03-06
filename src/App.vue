@@ -2,6 +2,7 @@
   <div
     id="app"
     v-load="true"
+    load-type="cube-grid"
   >
   </div>
 </template>
