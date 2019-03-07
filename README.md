@@ -1,4 +1,4 @@
-<p align="center">English | [简体中文](./docs/zh-cn/README.md)</p>
+English | [简体中文](./docs/zh-cn/README.md)
 
 
 <p align="center"><img src="./static/icon.png" /></p>
