@@ -1,8 +1,10 @@
 
+<p align="center"><img src="./static/icon.png" /></p>
 
-![](./static/icon.png)
-
-![](https://img.shields.io/npm/v/npm.svg) ![](https://img.shields.io/cocoapods/l/AFNetworking.svg)
+<p align="center">
+    <img src="https://img.shields.io/npm/v/npm.svg" />
+    <img src="https://img.shields.io/cocoapods/l/AFNetworking.svg" />
+</p>
 
 
 
@@ -16,10 +18,10 @@
 
 # Features
 
-- ✔️ easy to use, Just two line of code.
-- ✔️ more beautiful, with help of [spinkit](https://github.com/tobiasahlin/SpinKit).
-- ✔️ Higher customization, use it on every HTML DOM.
-- ✔️ Long time support.
+- 🍳 easy to use, Just two line of code.
+- 🎫 more beautiful, with help of [spinkit](https://github.com/tobiasahlin/SpinKit).
+- 🚗 Higher customization, use it on every HTML DOM.
+- 💪 Long time support.
 
 # Install
 
@@ -81,3 +83,8 @@ use it by vue-directive:
 
 - [Vue.js](https://github.com/vuejs/vue)
 - [spinkit](https://github.com/tobiasahlin/SpinKit)
+
+
+## License
+
+vue-easy-loading is licensed under a [MIT License](./LICENSE).
