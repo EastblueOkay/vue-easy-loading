@@ -29,7 +29,7 @@ English | [简体中文](./doc/zh-cn/README.md)
 
 ```shell
 npm i -S vue-easy-loading
-# or
+#or
 yarn add vue-easy-loading
 ```
 
